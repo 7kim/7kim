@@ -94,6 +94,10 @@ A documented collection of **Claude Skills** — reusable, self-contained workfl
 
 ### 📚 [Coding Wiki & Resources](https://github.com/7kim/Coding-Wiki-and-resources)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7kim/Coding-Wiki-and-resources/main/assets/logo.png" width="80" alt="Coding Wiki & Resources logo" />
+</p>
+
 A personal **knowledge base / Obsidian vault** cataloguing the AI development stack — languages, frontend, databases, infra, AI providers, and agentic harnesses — organized as a structured reference for the full dev toolchain.
 
 <p align="left">
