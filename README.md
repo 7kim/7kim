@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://twitter.com/7akim97"><img src="https://img.shields.io/badge/Twitter-@7akim97-1DA1F2?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/7kim/"><img src="https://img.shields.io/badge/LinkedIn-7kim-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/📍-Dubai-6366F1" />
   <img src="https://img.shields.io/badge/repos-3-2563EB" />
 </p>
@@ -52,16 +53,20 @@
 ### 🤖 [PAOS — Personal Agent Operating System](https://github.com/7kim/PAOS)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7kim/PAOS/main/screenshots/dashboard-overview.png" width="800" alt="PAOS dashboard" />
+  <img src="https://raw.githubusercontent.com/7kim/PAOS/master/assets/logo.svg" width="80" alt="PAOS logo" />
 </p>
 
-A multi-agent **pipeline orchestration hub**: build visual DAG pipelines, assign agents (Claude Code, Codex, OpenCode, Hermes) to nodes, and execute cascading workflows with topological (Kahn's-algorithm) ordering — all tracked from a single Next.js dashboard covering 50+ API endpoints, token/cost usage, live terminals, and an evidence-based 13-category code benchmark system.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/7kim/PAOS/master/screenshots/dashboard-overview.png" width="800" alt="PAOS dashboard" />
+</p>
+
+A multi-agent orchestration framework built around a written constitution — the **H-Factor Protocol** — that separates planning from execution from review across agents, with a Peer Review gate that blocks a step from running until it's approved. On top of that: visual DAG pipelines, an 11-agent registry (Claude Code, Codex, Gemini, Hermes, and more), cascading execution with topological (Kahn's-algorithm) ordering, and a single Next.js dashboard covering 63 API endpoints, 18 pages, token/cost tracking, and an evidence-based 110-question code benchmark.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-Dashboard-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/H--Factor-Constitution-A855F7" />
   <img src="https://img.shields.io/badge/DAG-Pipeline%20Engine-6366F1" />
   <img src="https://img.shields.io/badge/Docker-Deployable-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/⭐-1-yellow" />
 </p>
 
 ---
@@ -99,5 +104,5 @@ A personal **knowledge base / Obsidian vault** cataloguing the AI development st
 ---
 
 <p align="center">
-  <sub>Built by Abdullah Abdul Hakim · Dubai 📍 · <a href="https://twitter.com/7akim97">@7akim97</a></sub>
+  <sub>Built by Abdullah Abdul Hakim · Dubai 📍 · <a href="https://twitter.com/7akim97">@7akim97</a> · <a href="https://www.linkedin.com/in/7kim/">LinkedIn</a></sub>
 </p>
